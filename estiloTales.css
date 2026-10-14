@@ -1,0 +1,22 @@
+* {
+    font-family: cursive;
+    color: rgb(4, 152, 193);
+    text-align: center;
+}
+
+img {
+    width: 300px;
+}
+
+h1 {
+    font-size: 35px;
+    color: rgb(0, 118, 151);
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 25px;
+}

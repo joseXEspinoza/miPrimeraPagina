@@ -1,0 +1,41 @@
+* {
+
+    font-family: cursive;
+}
+
+h1 {
+    font-size: 35px;
+    color: rgb(0, 118, 151);
+}
+
+h2 {
+    color: rgb(4, 152, 193);
+}
+
+h3 {
+    color: rgb(4, 152, 193);
+}
+
+a {
+    font-size: 20px;
+    color: rgb(0, 118, 151);
+}
+
+img {
+    width: 300px;
+}
+
+table {
+    text-align: center;
+
+    border-radius: 5px;
+    border-color: rgb(6, 138, 220);
+}
+
+dt {
+    color: rgb(4, 152, 193);
+}
+
+p {
+    color: rgb(4, 152, 193);
+}
